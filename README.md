@@ -1,11 +1,11 @@
 # The programmer's Notepad++ (no plugin conflicts setup)
 
-The advanced Notepad++ setup that does not have any conflicts between the installed plugins. The setup was done mostly for the back-end web developers. Hit the `Ctrl+Shift+Alt+M` to read this file in the editor.
+The advanced Notepad++ setup that does not have any conflicts between the installed plugins. Hit the `Ctrl+Shift+Alt+M` to read this file in the editor.
 
 
 ## Usage
 
-Before starting the Notepad++ make sure you run Notepad++Portable.exe , or if you will run notepad++.exe directly all small configurations will be lost. Install Notepad++ via PortableApps and replace `PortableApps/Notepad++Portable/` with extracted directory, or you can create shortcut for Notepad++Portable.exe and pin it to the TaskBar and Desktop.
+Before starting the Notepad++ make sure you run Notepad++Portable.exe , or if you will run notepad++.exe directly all small configurations will be lost. Install Notepad++ via PortableApps and replace `PortableApps/Notepad++Portable/` with extracted directory, or you can create shortcut for Notepad++Portable.exe and pin it to the Taskbar and Desktop.
 
 
 ### Theme
@@ -45,8 +45,6 @@ In the context menu you'll find Workspace item that will have useful items to wo
 
 ```
 .DS_Store
-.vscode
-.idea
 .tags
 tags.idx
 Thumbs.db
@@ -61,7 +59,7 @@ tags.sqlite
 
 ```
 
-The most useful plugin I found is NppGTags. Open any file in the workspace root directory and `Create database`. Make sure if the workspace path is loaded. If you know how to use ctags.exe - download and compile it from the sources and after that you'll be able to use NppTags and TagLEET, but if you will want to generate tags database from the editor's interface - it will be slow.
+The most useful plugin I found is NppGTags. Open any file in the workspace root directory and click `Workspace->Create database`. Make sure if the workspace path is loaded. If you know how to use ctags.exe - download and compile it from the sources and after running ctags you'll be able to use NppTags and TagLEET, but if you will want to generate tags database from the editor's interface - it will be slow.
 
 
 #### Git
