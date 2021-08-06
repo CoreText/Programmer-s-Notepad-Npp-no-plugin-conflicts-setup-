@@ -5,7 +5,7 @@ The advanced Notepad++ setup that does not have any conflicts between the instal
 
 ## Usage
 
-Before starting the Notepad++ make sure you run Notepad++Portable.exe , or if you will run notepad++.exe directly all small configurations will be lost. Download PortableApps, install Notepad++ and replace `PortableApps/Notepad++Portable/` with extracted directory, or you can create shortcut for Notepad++Portable.exe and pin it to the TaskBar and Desktop.
+Before starting the Notepad++ make sure you run Notepad++Portable.exe , or if you will run notepad++.exe directly all small configurations will be lost. Install Notepad++ via PortableApps and replace `PortableApps/Notepad++Portable/` with extracted directory, or you can create shortcut for Notepad++Portable.exe and pin it to the TaskBar and Desktop.
 
 
 ### Theme
