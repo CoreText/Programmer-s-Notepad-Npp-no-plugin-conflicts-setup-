@@ -68,7 +68,7 @@ tags.sqlite
 
 ```
 
-The most useful plugin I found is NppGTags. Open any file in the workspace root directory and click `Workspace->Create database`. Make sure if the workspace path is loaded. If you know how to use ctags.exe - download and compile it from the sources and after running ctags you'll be able to use NppTags and TagLEET, but if you will want to generate tags database from the editor's interface - it will be slow.
+The most useful plugin I found is NppGTags. Open any file in the workspace root directory and click `Workspace->Create database`. Make sure if the workspace path is loaded. To check the path - hit `Alt+\`. If you know how to use ctags.exe - download and compile it from the sources and after running ctags you'll be able to use NppTags and TagLEET, but if you will want to generate tags database from the editor's interface - it will be slow.
 
 
 #### Git
