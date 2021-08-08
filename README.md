@@ -1,6 +1,6 @@
 # The programmer's Notepad++ (no plugin conflicts setup)
 
-The advanced Notepad++ setup with plenty of features/scripts that does not have any conflicts between the installed plugins. Hit the `Ctrl+Shift+Alt+M` to read this file in the editor.
+The full-feature Notepad++ setup with some scripts collections from other repositories and installed plugins that does not have the conflicts. Hit the `Ctrl+Shift+Alt+M` to read this file in the editor.
 
 
 ## Installation
@@ -14,7 +14,7 @@ Before starting the Notepad++ make sure you run Notepad++Portable.exe, because i
 - Create shortcut for Notepad++Portable.exe and pin it to the Taskbar and Desktop, or you can access it from the PortableApps manager.
 
 
-### Theme
+## Theme
 
 My preferred theme is `Texter-Light` and `Texter-Twilight` in the Windows High Contrast and editor's Dark Mode. If you want to have dark mode in Notepad++ everywhere go to `Language->User Defined Language->Define your language...` and change file extensions for each user defined Dark/Light language in the Extension field.
 
@@ -25,6 +25,7 @@ After you open the editor you'll see `TODO.txt` that could be opened using `Ctrl
 
 While editing the document you can hit `Ctrl+Shift+P` (hotkey like in Sublime Text, vscode) , type 10, and you'll see `Add 10 Lines`, press `Enter` key and after some time if you need more 10 new lines - hit `Ctrl+Shift+Alt+Enter` and previous command will be executed.
 
+### Some hotkeys
 - `Ctrl+Shift+Alt+Backspace` is used for NppExec plugin to repeat executed command, e.x. if you want to compile some script.
 - `Shift+Alt+D` - you can clone the file to the next view, or
 - `Ctrl+Alt+D` - you can move the file to the next view. It's useful when you need work with large files.
@@ -47,7 +48,7 @@ While editing the document you can hit `Ctrl+Shift+P` (hotkey like in Sublime Te
 - `Shift+Alt+A` - Emment select outwards
 
 
-### Projecting
+#### Projecting
 
 In the context menu you'll find Workspace item that will have useful items to work with the project. If you installed Git - make sure the Workspace path is loaded and you can access Git features from the context menu `Git->Git Edit Global .gitignore` and then paste the following:
 
