@@ -9,7 +9,7 @@ Before starting the Notepad++ make sure you run Notepad++Portable.exe, because i
 
 - You can install Notepad++ via PortableApps and replace `PortableApps/Notepad++Portable/` with this Notepad++, but it's not necessary.
 
-- Find `Users\username` and replace it with your  `Users\<your-username>` in whole directory of `Notepad++Portable`.
+- Find `Users\username` (with case sensitive) and replace it with your  `Users\<your-username>` in whole directory of `Notepad++Portable`.
 
 - Create shortcut for Notepad++Portable.exe and pin it to the Taskbar and Desktop, or you can access it from the PortableApps manager.
 
