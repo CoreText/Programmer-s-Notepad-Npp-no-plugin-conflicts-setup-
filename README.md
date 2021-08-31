@@ -1,6 +1,6 @@
 # The programmer's Notepad++ (no plugin conflicts setup)
 
-The full-feature Notepad++ setup with some scripts collections from other repositories and installed plugins with stable releases (x64) that does not have the conflicts. Hit the `Ctrl+Shift+Alt+M` to read this file in the editor.
+The full-feature Notepad++ setup with some scripts collections from other repositories and installed plugins with stable releases (x64) that does not have any conflicts. Hit the `Ctrl+Shift+Alt+M` to read this file in the editor.
 
 
 ## Installation
