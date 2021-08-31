@@ -90,3 +90,6 @@ If you want use Git features - it's better to download and install TortoiseGit. 
 - Open `TODO.txt` using `Ctrl+Shift+Alt+Space` shortcut, or access it from the context menu.
 
 - While editing the document you can hit `Ctrl+Shift+P` (hotkey like in Sublime Text, vscode), type 10, and you'll see `Add 10 Lines`, press `Enter` key and after some time if you need more 10 new lines - hit `Ctrl+Shift+Alt+Enter` and previous command will be executed.
+
+
+[DOWNLOAD Notepad++ Portable](https://github.com/CoreText/Programmer-s-Notepad-Npp-no-plugin-conflicts-setup-/releases/tag/v8.1.2)
