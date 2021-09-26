@@ -41,6 +41,7 @@ My preferred theme is `Texter-Light` (because of Compare plugin) and `Texter-Twi
 - `Ctrl+Shift+A` - Select by Fold
 - `Alt+A` - Emmet select inwards
 - `Shift+Alt+A` - Emmet select outwards
+- `Shift+Alt+R` - Reverse the caret position in selection
 
 
 #### Projecting
