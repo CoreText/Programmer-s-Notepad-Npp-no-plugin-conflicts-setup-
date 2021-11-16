@@ -97,5 +97,3 @@ If you want use Git features - it's better to download and install TortoiseGit. 
 
 If you have a compatibility issue with the `Python Script` plugin - replace downloaded `PythonScript.dll` from the official Notepad++ plugin repository in `Notepad++Portable\App\Notepad++64\plugins\PythonScript` directory.
 
-
-[DOWNLOAD Notepad++ Portable](https://github.com/CoreText/Programmer-s-Notepad-Npp-no-plugin-conflicts-setup-/releases/tag/v8.1.2)
