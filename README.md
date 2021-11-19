@@ -20,7 +20,7 @@ My preferred theme is `Texter-Light` (because of Compare plugin) and `Twilight-N
 
 
 ### Some hotkeys
-- `Shift+Alt+D` - you can clone the file to the next view, or. Useful for the navigation in the large files
+- `Shift+Alt+D` - you can clone the file to the next view, or. Useful for the large files navigation
 - `Ctrl+Alt+D` - you can move the file to the next view
 - `Alt+D`, `Alt+J` - Multicursor feature, select next occurrence, like in the SublimeText editor
 - `Alt+W` - Select by word
