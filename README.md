@@ -50,7 +50,7 @@ My preferred theme is `Texter-Light` (because of Compare plugin) and `Twilight-N
 
 #### Projecting
 
-In the context menu you'll find Workspace item that will have useful items to work with the project. If you installed Git - make sure the Workspace path is loaded and you can access Git features from the context menu `Git->Git Edit Global .gitignore` and then paste the following:
+In the context menu you'll find Workspace item that will have useful items to work with the project. If you installed Git - make sure the Workspace path is loaded (Workspace panel is active) and you can access Git features from the context menu `Git->Git Edit Global .gitignore` and then paste the following:
 
 ```
 .DS_Store
