@@ -94,7 +94,11 @@ If you want use Git features - it's better to download and install TortoiseGit. 
 
 - Open `TODO.txt` using `Ctrl+Shift+Alt+Space` shortcut, or access it from the context menu.
 
-- While editing the document you can hit `Ctrl+Shift+P` (hotkey like in Sublime Text, vscode), type 10, and you'll see `Add 10 Lines`, press `Enter` key and after some time if you need more 10 new lines - hit `Ctrl+Shift+Alt+Enter` and previous command will be executed.
+- While editing the document you can hit `Ctrl+Shift+P` (hotkey like in Sublime Text, vscode), type 10, and you'll see `Add 10 Lines`, press `Enter` key and after some time if you need more 10 new lines - hit `Ctrl+Shift+Alt+Enter` and previous command will be executed (`NppMenuSearch`). 
+
+- `Ctrl+Shift+Alt+Backspace` - Previous command of `NppExec` plugin
+
+- `Ctrl+Shift+Alt+\` - Previous command of `Python Script` plugin
 
 
 ##### Windows 7 installation
