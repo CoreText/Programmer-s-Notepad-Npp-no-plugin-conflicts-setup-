@@ -37,11 +37,15 @@ My preferred theme is `Texter-Light` (because of Compare plugin) and `Twilight-N
 - `Shift+Alt+Space` - edit in the Distraction Free Mode
 - `Alt+Z` - cursor to previous location
 - `Shift+Alt+Z` - cursor to next location
-- `Ctrl+Alt+A` - Select paragraph
-- `Ctrl+Shift+A` - Select by Fold
 - `Alt+A` - Emmet select inwards
 - `Shift+Alt+A` - Emmet select outwards
+- `Ctrl+Alt+A` - Select paragraph
+- `Ctrl+Shift+A` - Select by Fold
+- `Ctrl+Shift+Alt+A` - Format using JSBeautifier
 - `Shift+Alt+R` - Reverse the caret position in selection
+- `Alt+F` - Incremental search
+- `Shift+Alt+F` - Multiline replace
+- `Ctrl+Alt+F` - Filter results in new tab
 
 
 #### Projecting
