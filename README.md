@@ -20,10 +20,8 @@ My preferred theme is `Texter-Light` (because of Compare plugin) and `Twilight-N
 
 
 ### Some hotkeys
-- `Ctrl+Shift+Alt+Backspace` is used for NppExec plugin to repeat executed command, e.x. if you want to compile some script
-- `Ctrl+Shift+Alt+\` previous executed `Python Script` script
 - `Shift+Alt+D` - you can clone the file to the next view, or. Useful for the navigation in the large files
-- `Ctrl+Alt+D` - you can move the file to the next view. It's useful when you need work with large files
+- `Ctrl+Alt+D` - you can move the file to the next view
 - `Alt+D`, `Alt+J` - Multicursor feature, select next occurrence, like in the SublimeText editor
 - `Alt+W` - Select by word
 - `Alt+K` - Skip to next selection
