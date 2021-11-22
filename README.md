@@ -44,6 +44,8 @@ My preferred theme is `Texter-Light` (because of Compare plugin) and `Twilight-N
 - `Alt+F` - Incremental search
 - `Shift+Alt+F` - Multiline replace
 - `Ctrl+Alt+F` - Filter results in new tab
+- `Alt+N` - Create file in the same directory
+- `Alt+S` - Rename current file
 
 
 #### Projecting
@@ -78,8 +80,10 @@ If you want use Git features - it's better to download and install TortoiseGit. 
 
 #### Some features
 
-- Better PHP, Python, CSS support (autocomplete, commands and more).
+- Better PHP, Python, SQL, CSS support (autocomplete, commands and more).
   Run `Notepad++Portable\App\Notepad++64\b2npp.php` in the browser in order to generate `html.xml` to autocomplete CSS classes like Bootstrap 4, Foundation and etc. The original script is [here](https://github.com/brhndursun/Bootstrap-Autocomplete-for-Notepad). You can find generated classes for Bootstrap, Foundation, Tailwind CSS in `Notepad++Portable\App\Notepad++64\autoCompletion` directory. Just need to replace `html.xml.bak` to `html.xml` to use it and vice versa.
+
+- Better `Function List` support for the TypeScript and JavaScript ES6 functions and methods.
 
 - Extended context menu.
 
