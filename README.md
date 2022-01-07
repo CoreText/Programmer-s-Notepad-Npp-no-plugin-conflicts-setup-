@@ -5,7 +5,7 @@ The full-feature Notepad++ setup with some scripts collections from other reposi
 
 ## Installation
 
-Before starting the Notepad++ make sure you run Notepad++Portable.exe, because if you run notepad++.exe directly all small configurations will be lost.
+Download the latest release from this repo. Before starting the Notepad++ make sure you run Notepad++Portable.exe, because if you run notepad++.exe directly all small configurations will be lost.
 
 - You can install Notepad++ via PortableApps and replace `PortableApps/Notepad++Portable/` with this Notepad++, but it's not necessary.
 
