@@ -20,6 +20,8 @@ My preferred theme is `Texter-Light` (because of Compare plugin) and `Twilight-N
 
 
 ### Some hotkeys
+- `Ctrl+Shift+Alt+S` - Change to your preferred command, e.x.: to save and compile current file
+- `Ctrl+Shift+Alt+D` - Change to your preferred command
 - `Shift+Alt+D` - you can clone the file to the next view, or. Useful for the large files navigation
 - `Ctrl+Alt+D` - you can move the file to the next view
 - `Alt+D`, `Alt+J` - Multicursor feature, select next occurrence, like in the SublimeText editor
