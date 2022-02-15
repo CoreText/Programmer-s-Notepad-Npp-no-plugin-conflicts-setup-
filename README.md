@@ -16,7 +16,7 @@ Download the latest release from this repo. Before starting the Notepad++ make s
 
 ## Theme
 
-My preferred theme is `Texter-Light` (because of Compare plugin) and `Twilight-Neon` in the Windows High Contrast and editor's Dark Mode. If you want to have dark mode in Notepad++ everywhere go to `Language->User Defined Language->Define your language...` and change file extensions for each user defined Dark/Light language in the Extension field.
+My preferred theme is `Texter-Light` (because of Compare plugin and React JSX better highlight) and `Twilight-Neon` in the Windows High Contrast and editor's Dark Mode. If you want to have dark mode in Notepad++ everywhere go to `Language->User Defined Language->Define your language...` and change file extensions for each user defined Dark/Light language in the Extension field.
 
 
 ### Some hotkeys
