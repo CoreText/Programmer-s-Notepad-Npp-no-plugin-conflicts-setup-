@@ -29,7 +29,7 @@ My preferred theme is `Texter-Light` (because of Compare plugin and React JSX be
 - `Alt+K` - Skip to next selection
 - `Alt+U` - Undo selection
 - `Ctrl+Shift+L` - Select all occurrences
-- `Ctrl+Alt+P` - Toggle spell checker
+- `Ctrl+Shift+Alt+P` - Toggle spell checker
 - `Alt+P` - go to next error
 - `Shift+Alt+P` - go to previous error
 - `Shift+Enter` - will break the line
