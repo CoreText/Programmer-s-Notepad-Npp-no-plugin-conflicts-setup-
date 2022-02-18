@@ -82,7 +82,7 @@ If you know how to use ctags.exe - download and compile it from the sources and 
 
 #### Git
 
-If you want use Git features - it's better to download and install TortoiseGit. One more useful program is DiffUse - download and install it and hit `Ctrl+Shift+Alt+P` and add the absolute path to diffuse.exe to the user's `Path` environment variable.
+If you want use Git features - it's better to download and install TortoiseGit. One more useful program is DiffUse - download and install it, hit `Ctrl+Shift+P` and write `path env` and chose `Open PATH Environment Variables`, add the absolute path to diffuse.exe to the user's `Path` environment variable.
 
 
 #### Some features
